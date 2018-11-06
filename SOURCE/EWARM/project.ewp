@@ -992,6 +992,12 @@
         <name>$PROJ_DIR$\..\HAL\Src\usart.c</name>
       </file>
     </group>
+    <file>
+      <name>$PROJ_DIR$\..\Application\app.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Application\app.h</name>
+    </file>
   </group>
   <group>
     <name>Drivers</name>
