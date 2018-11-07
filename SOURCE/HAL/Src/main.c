@@ -41,6 +41,7 @@
 #include "stm32f0xx_hal.h"
 #include "usart.h"
 #include "gpio.h"
+#include "app.h"
 
 /* USER CODE BEGIN Includes */
 
@@ -101,6 +102,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+  APP_Run();
   while (1)
   {
 

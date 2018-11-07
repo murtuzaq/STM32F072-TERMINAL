@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/mquaizar/Dropbox/engineering/GitHub/NUCLEO - STM32F072/DOCUMENTATION/STM32CUBE PROJECT/Inc
+HeaderPath=C:/Users/mquaizar/Dropbox/engineering/GitHub/STM32F072-TERMINAL/DOCUMENTATION/STM32CUBE PROJECT/Inc
 HeaderFiles=gpio.h;usart.h;stm32f0xx_it.h;stm32f0xx_hal_conf.h;main.h;
-SourcePath=C:/Users/mquaizar/Dropbox/engineering/GitHub/NUCLEO - STM32F072/DOCUMENTATION/STM32CUBE PROJECT/Src
+SourcePath=C:/Users/mquaizar/Dropbox/engineering/GitHub/STM32F072-TERMINAL/DOCUMENTATION/STM32CUBE PROJECT/Src
 SourceFiles=gpio.c;usart.c;stm32f0xx_it.c;stm32f0xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]

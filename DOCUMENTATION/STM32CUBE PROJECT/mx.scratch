@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-<ProjectName>C:\Users\mquaizar\Dropbox\engineering\GitHub\NUCLEO - STM32F072\DOCUMENTATION\STM32CUBE PROJECT\\project</ProjectName>
+<ProjectName>C:\Users\mquaizar\Dropbox\engineering\GitHub\STM32F072-TERMINAL\DOCUMENTATION\STM32CUBE PROJECT\\project</ProjectName>
 <ProjectNature>C</ProjectNature> 
 <CMSIS>..\Drivers\CMSIS</CMSIS>
 <HAL_Driver>C:\Users\mquaizar\STM32Cube\Repository\STM32Cube_FW_F0_V1.9.0\Drivers\CMSIS</HAL_Driver>
