@@ -11,7 +11,7 @@
  *	Private Includes
  *****************************************************************************/
 #include "app.h"
-
+#include "bsp.h"
 
 /*****************************************************************************
  *	Private External References
@@ -41,7 +41,7 @@ static void APP_Idle(void);
  *****************************************************************************/
 
 /*****************************************************************************
- *  App_Run
+ *  APP_Run
  *  Parameters:
  *    void
  *  Returns:
@@ -57,10 +57,11 @@ static void APP_Idle(void);
   
 void APP_Run(void)
 {
-    
+  BSP_Init();   
+  
   while(1)
   {
-   
+    GPIO_Toggle(BSP_Output_PA5());
     APP_Idle();
     
   }
